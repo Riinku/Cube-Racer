@@ -2,7 +2,7 @@
 Endless Runner game made to learn Unity
 
 My first small unity project. This was made as a fun casual endless runner. Learned about instantiating objects,
-working with audio, physics and collisions.
+working with audio, physics, collisions and playerprefs.
 
 
 
